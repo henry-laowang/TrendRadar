@@ -4,11 +4,6 @@
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
 比亚迪
 王传福
 
@@ -77,6 +72,7 @@ iphone
 ipad
 mac
 ios
+Apple
 
 ai
 !gai
@@ -111,3 +107,5 @@ ai
 宇宙
 飞船
 航空
+外星人
+
